@@ -1,0 +1,30 @@
+body {
+	font-family: 'Staatliches', cursive;
+	background-color: #f3f590;
+	color: green;
+}
+
+ul {
+	list-style-type: none;
+	margin:;
+	padding:;
+	overflow: hidden;
+}
+li{
+	float: left;
+	width: 20%
+}
+li a {
+	display: block;
+	text-align: center;
+	padding:;
+	text-decoration: none;
+	color: black;
+}
+li a:hover:not(.active) {
+	background-color: purple;
+	color: green;
+}
+{
+
+
